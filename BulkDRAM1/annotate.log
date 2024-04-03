@@ -1,0 +1,119 @@
+2024-03-29 21:08:42,352 - The log file is created at /mnt/storage/userlab/melody/BulkDRAM1/annotate.log.
+2024-03-29 21:08:42,353 - 4 FASTAs found
+2024-03-29 21:08:42,365 - Starting the Annotation of Bins with database configuration: 
+ 
+
+KOfam db:
+    Citation: T. Aramaki, R. Blanc-Mathieu, H. Endo, K. Ohkubo, M. Kanehisa, S. Goto, and H. Ogata, "Kofamkoala: Kegg ortholog assignment based on profile hmm and adaptive score threshold," Bioinformatics, vol. 36, no. 7, pp. 2251–2252, 2020.
+    Download Time: 03/15/2024, 15:39:31
+    Origin: Downloaded by DRAM
+KOfam KO list:
+    Citation: T. Aramaki, R. Blanc-Mathieu, H. Endo, K. Ohkubo, M. Kanehisa, S. Goto, and H. Ogata, "Kofamkoala: Kegg ortholog assignment based on profile hmm and adaptive score threshold," Bioinformatics, vol. 36, no. 7, pp. 2251–2252, 2020.
+    Download Time: 03/15/2024, 15:39:34
+    Origin: Downloaded by DRAM
+Pfam db:
+    Citation: J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G. A. Salazar, E. L. Sonnhammer, S. C. Tosatto, L. Paladin, S. Raj, L. J. Richardson et al., "Pfam: The protein families database in 2021," Nucleic acids research, vol. 49, no. D1, pp. D412–D419, 2021.
+    Download Time: 03/15/2024, 15:48:02
+    Origin: Downloaded by DRAM
+    Description_Db_Updated: 03/15/2024, 17:48:44
+dbCAN db:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Download Time: 03/15/2024, 15:48:05
+    Origin: Downloaded by DRAM
+    Description_Db_Updated: 03/15/2024, 17:48:45
+MEROPS peptidase db:
+    Description_Db_Updated: 03/15/2024, 17:48:43
+    Citation: N. D. Rawlings, A. J. Barrett, P. D. Thomas, X. Huang, A. Bateman, and R. D. Finn, "The merops database of proteolytic enzymes, their substrates and inhibitors in 2017 and a comparison with peptidases in the panther database," Nucleic acids research, vol. 46, no. D1, pp. D624–D632, 2018.
+    Download Time: 03/15/2024, 15:48:41
+    Origin: Downloaded by DRAM
+
+Pfam hmm dat:
+    Description_Db_Updated: Unknown, or Never
+    Citation: J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G. A. Salazar, E. L. Sonnhammer, S. C. Tosatto, L. Paladin, S. Raj, L. J. Richardson et al., "Pfam: The protein families database in 2021," Nucleic acids research, vol. 49, no. D1, pp. D412–D419, 2021.
+    Download Time: 03/15/2024, 15:48:03
+    Origin: Downloaded by DRAM
+dbCAN family activities:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Upload_Date: 08062022
+    Download Time: 03/15/2024, 15:48:05
+    Origin: Downloaded by DRAM
+dbCAN subfamily EC numbers:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Upload_Date: 08062022
+    Download Time: 03/15/2024, 15:48:05
+    Origin: Downloaded by DRAM
+VOG annotations:
+    Description_Db_Updated: Unknown, or Never
+    Citation: J. Thannesberger, H.-J. Hellinger, I. Klymiuk, M.-T. Kastner, F. J. Rieder, M. Schneider, S. Fister, T. Lion, K. Kosulin, J. Laengle et al., "Viruses comprise an extensive pool of mobile genetic elements in eukaryote cell cultures and human clinical samples," The FASEB Journal, vol. 31, no. 5, pp. 1987–2000, 2017.
+    Version: latest
+    Download Time: 03/15/2024, 15:48:22
+    Origin: Downloaded by DRAM
+
+Genome summary form:
+    Branch: master
+    Download Time: 03/15/2024, 15:48:41
+    Origin: Downloaded by DRAM
+Module step form:
+    Branch: master
+    Download Time: 03/15/2024, 15:48:41
+    Origin: Downloaded by DRAM
+ETC module database:
+    Branch: master
+    Download Time: 03/15/2024, 15:48:41
+    Origin: Downloaded by DRAM
+Function heatmap form:
+    Branch: master
+    Download Time: 03/15/2024, 15:48:41
+    Origin: Downloaded by DRAM
+AMG database:
+    Branch: master
+    Download Time: 03/15/2024, 15:48:41
+    Origin: Downloaded by DRAM
+2024-03-29 21:08:42,366 - Retrieved database locations and descriptions
+2024-03-29 21:08:42,366 - Annotating final_contigs_AG-910-A06
+2024-03-29 21:08:44,936 - Turning genes from prodigal to mmseqs2 db
+2024-03-29 21:08:47,895 - Getting hits from kofam
+2024-03-29 21:19:20,760 - No KEGG source provided so distillation will be of limited use.
+2024-03-29 21:19:20,761 - Getting forward best hits from peptidase
+2024-03-29 21:19:28,927 - Getting reverse best hits from peptidase
+2024-03-29 21:19:29,447 - Getting descriptions of hits from peptidase
+2024-03-29 21:19:29,460 - Getting hits from pfam
+2024-03-29 21:19:42,635 - Getting hits from dbCAN
+2024-03-29 21:19:49,597 - Merging ORF annotations
+2024-03-29 21:19:57,119 - No rRNAs were detected, no rrnas.tsv file will be created.
+2024-03-29 21:19:57,991 - Annotating final_contigs_AG-910-A10
+2024-03-29 21:20:02,423 - Turning genes from prodigal to mmseqs2 db
+2024-03-29 21:20:05,364 - Getting hits from kofam
+2024-03-29 21:29:57,643 - No KEGG source provided so distillation will be of limited use.
+2024-03-29 21:29:57,643 - Getting forward best hits from peptidase
+2024-03-29 21:30:06,208 - Getting reverse best hits from peptidase
+2024-03-29 21:30:06,762 - Getting descriptions of hits from peptidase
+2024-03-29 21:30:06,770 - Getting hits from pfam
+2024-03-29 21:30:20,021 - Getting hits from dbCAN
+2024-03-29 21:30:26,743 - Merging ORF annotations
+2024-03-29 21:30:32,151 - Annotating final_contigs_AG-910-A02
+2024-03-29 21:30:34,161 - Turning genes from prodigal to mmseqs2 db
+2024-03-29 21:30:37,786 - Getting hits from kofam
+2024-03-29 21:36:53,228 - No KEGG source provided so distillation will be of limited use.
+2024-03-29 21:36:53,228 - Getting forward best hits from peptidase
+2024-03-29 21:36:59,034 - Getting reverse best hits from peptidase
+2024-03-29 21:36:59,539 - Getting descriptions of hits from peptidase
+2024-03-29 21:36:59,544 - Getting hits from pfam
+2024-03-29 21:37:09,574 - Getting hits from dbCAN
+2024-03-29 21:37:14,509 - Merging ORF annotations
+2024-03-29 21:37:21,441 - Annotating final_contigs_AG-910-A04
+2024-03-29 21:37:23,139 - Turning genes from prodigal to mmseqs2 db
+2024-03-29 21:37:25,981 - Getting hits from kofam
+2024-03-29 21:43:35,044 - No KEGG source provided so distillation will be of limited use.
+2024-03-29 21:43:35,045 - Getting forward best hits from peptidase
+2024-03-29 21:43:39,476 - Getting reverse best hits from peptidase
+2024-03-29 21:43:40,007 - Getting descriptions of hits from peptidase
+2024-03-29 21:43:40,014 - Getting hits from pfam
+2024-03-29 21:43:52,106 - Getting hits from dbCAN
+2024-03-29 21:43:56,709 - Merging ORF annotations
+2024-03-29 21:43:59,403 - No rRNAs were detected, no rrnas.tsv file will be created.
+2024-03-29 21:43:59,752 - Annotations complete, processing annotations
+2024-03-29 21:43:59,854 - Completed annotations

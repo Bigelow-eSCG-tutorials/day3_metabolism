@@ -1,0 +1,7 @@
+2024-03-29 21:44:24,758 - The log file is created at /mnt/storage/userlab/melody/BulkDRAM1/summary/distill.log
+2024-03-29 21:44:24,779 - Note: the fallowing id fields were not in the annotations file and are not being used: ['kegg_genes_id', 'kegg_id', 'camper_id', 'fegenie_id', 'sulfur_id', 'methyl_id'], but these are ['ko_id', 'kegg_hit', 'peptidase_family', 'cazy_best_hit', 'pfam_hits']
+2024-03-29 21:44:24,931 - Retrieved database locations and descriptions
+2024-03-29 21:44:24,945 - Calculated genome statistics
+2024-03-29 21:44:30,920 - Generated genome metabolism summary
+2024-03-29 21:44:35,626 - Generated product heatmap and table
+2024-03-29 21:44:35,626 - Completed distillation

@@ -1,0 +1,5 @@
+genome	number of scaffolds	5S rRNA	16S rRNA	23S rRNA	tRNA count
+final_contigs_AG-910-A02	26		final_contigs_AG-910-A02_AG-910-A02_NODE_16 (258, 1774)	final_contigs_AG-910-A02_AG-910-A02_NODE_16 (1898, 4605)	21
+final_contigs_AG-910-A04	24				19
+final_contigs_AG-910-A06	40				23
+final_contigs_AG-910-A10	29	final_contigs_AG-910-A10_AG-910-A10_NODE_29 (1423, 1531)			23

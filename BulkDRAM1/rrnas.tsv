@@ -1,0 +1,4 @@
+scaffold	fasta	begin	end	strand	type	e-value	note
+final_contigs_AG-910-A10_AG-910-A10_NODE_29	final_contigs_AG-910-A10	1423	1531	-	5S rRNA	4.2e-13	
+final_contigs_AG-910-A02_AG-910-A02_NODE_16	final_contigs_AG-910-A02	258	1774	+	16S rRNA	0	
+final_contigs_AG-910-A02_AG-910-A02_NODE_16	final_contigs_AG-910-A02	1898	4605	+	23S rRNA	0	
